@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0"/>
   <title>Pra vc, Mih</title>
   <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Quicksand:wght@400;600&display=swap" rel="stylesheet"/>
   <style>
@@ -180,11 +180,12 @@
   </div>
 
   <div class="container" id="main-content">
-    <p>Mih,</p>
+    <p>Mih...</p>
+    <p>Desde que te conheci, meu mundo ganhou um novo significado. As cores parecem mais vivas, os dias mais leves, e cada momento se tornou precioso.</p>
     <p>Você tem um brilho que é só seu, uma luz tão intensa que ilumina até os cantos mais escuros da minha alma. Seu jeito espontâneo e simpático mexe cmg, vc é como um sol radiante, capaz de transformar qualquer dia nublado em um céu azul infinito.</p>
-    <p>Eu amo seu cabelo, amo seus olhos e esse seu jeitinho tão único... Q te diferencia de todas as outras pessoas do mundo.</p>
+    <p>Eu amo seu cabelo, amo seus olhos e esse seu jeitinho tão único que te diferencia de todas as outras pessoas do mundo.</p>
     <p>Cada batida do meu coração sussurra seu nome, como se ele soubesse desde sempre que foi feito pra te amar. Você é a melodia mais doce da minha vida, meu porto seguro, minha paz em meio ao caos.</p>
-    <p>Com você, dá vontade de lutar, os desafios se tornam mais fáceis, os sonhos mais possíveis e a felicidade ainda maior. Quero dividir risadas, te apoiar nos momentos difíceis, ser seu porto seguro e multiplicar momentos inesquecíveis.</p>
+    <p>Com você, dá vontade de lutar, os desafios se tornam mais fáceis, os sonhos mais possíveis e a felicidade ainda maior. Quero dividir risadas, te apoiar nos momentos difíceis, ser seu porto seguro e multiplicar momentos inesquecíveis ao seu lado.</p>
     <p>Se pudesse, eu te daria o universo inteiro. Mas como não posso, entrego o que tenho de mais puro e verdadeiro: meu coração. 💖</p>
 
     <p class="final">Mih meu amor... você aceita namorar comigo? <span style="white-space: nowrap;">🥹💗</span></p>
